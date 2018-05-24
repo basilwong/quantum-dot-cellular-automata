@@ -8,7 +8,7 @@ QCA is an abstract quantum computational nanotechnology based on field-coupled a
 
 ## Summary
 
-This project focuses on solving the general hamiltonian of two kinds of QCA circuits. The general hamiltonian takes into account the interactions between the all the cells with the driver(s), all the cells with each other, and all the cells with the environment. 
+This project focuses on solving the general Hamiltonian of two kinds of QCA circuits. The general hamiltonian takes into account the interactions between the all the cells with the driver(s), all the cells with each other, and all the cells with the environment. 
 
 ## N-length Wire
 
